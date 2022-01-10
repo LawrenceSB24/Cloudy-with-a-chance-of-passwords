@@ -62,4 +62,4 @@ Though it appears that when we are prompted to answer these questions that we ca
 ![Demo of the generator](./Assets/Generator-display.gif)
 
 
-#### PLEASE NOTE: While the appearance of the site differs from the original, that DOES NOT mean that they both have the same functionality. Both generators preform the same functionality and follow the same logic applied in the JS file. 
+#### PLEASE NOTE: While the appearance of the site differs from the original, that DOES NOT mean that they both DO NOT have the same functionality. Both generators preform the same functionality and follow the same logic applied in the JS file. 
